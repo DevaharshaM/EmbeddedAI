@@ -24,5 +24,5 @@ The experiments investigate the trade-off between classification accuracy and em
 
 ## Resources
 
-- [Dataset]([YOUR_DATASET_LINK](https://github.com/DevaharshaM/EmbeddedAI/blob/inception/Image_Classifier/Fruits_Dataset.zip))
+- [Dataset](https://github.com/DevaharshaM/EmbeddedAI/blob/inception/Image_Classifier/Fruits_Dataset.zip)
 - [Colab Notebook](https://github.com/DevaharshaM/EmbeddedAI/blob/inception/Image_Classifier/Image_Classifier_EdgeAI.ipynb)
